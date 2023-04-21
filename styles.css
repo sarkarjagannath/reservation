@@ -84,4 +84,7 @@ form input[type = submit]:hover{
     .card-img{
         height: 330px;
     }
+     h2{
+        padding-top: 5px;
+    }
 }
